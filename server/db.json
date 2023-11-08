@@ -1,0 +1,32 @@
+{
+  "seeker": [
+    {
+ "id": 1,
+ "Name": "AAAAA",
+ "Password": "111111" ,
+"Email":"AA@gmail.com"
+},
+
+
+{
+ "id": 2,
+ "Name": "BBBBB",
+ "Password": "222222" ,
+"Email":"bb@gmail.com"
+},
+
+{
+ "id": 3,
+ "Name": "CCCCC",
+ "Password": "333333" ,
+"Email":"cc@gmail.com"
+},
+
+{
+ "id": 4,
+ "Name": "DDDDD",
+ "Password": "4444444" ,
+"Email":"dd@gmail.com"
+}
+]
+}
